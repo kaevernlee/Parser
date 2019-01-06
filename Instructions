@@ -1,4 +1,8 @@
-1)  Create a .txt containing the desired string to see whether the syntax is able to be compiled in our language
+1)  Create a .txt containing the desired string to see whether the syntax is able to be compiled in our language, keep in mind that white space won't affect the syntax of your string
 2)  Remember what you named your .txt file
 3)  Use the name of your text file as the first argument when initialising the Parser
 4)  If desired, use "error" as the second argument and the parser will tell the user what kind of terminals it expects when it encounters a syntax error in your string
+5)  A few examples of .txt files is already given to you and were also used as test cases
+6)  Enjoy experimenting!
+
+Note: If you wish to use your own language, you may change the code where the parse table is implemented as a 2D array. Input your own parse table and you should be good to go.
