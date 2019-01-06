@@ -1,0 +1,4 @@
+1)  Create a .txt containing the desired string to see whether the syntax is able to be compiled in our language
+2)  Remember what you named your .txt file
+3)  Use the name of your text file as the first argument when initialising the Parser
+4)  If desired, use "error" as the second argument and the parser will tell the user what kind of terminals it expects when it encounters a syntax error in your string
